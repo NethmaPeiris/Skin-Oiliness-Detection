@@ -9,6 +9,6 @@ This repository contains code for an image classification project focusing on ca
   * Model testing script for evaluating the model on new images.
 
 # Usage:
-. Clone the repository to your local machine.
+. Clone the repository to your local machine
 . Follow the provided scripts and notebooks for data preprocessing, augmentation, clustering, and model training.
 . Test the trained model on new images using the provided examples.
